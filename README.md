@@ -23,15 +23,11 @@ To build and run this app:
 - Run the App: Test the app on an emulator or physical device.
 
 ## Screenshots
-
-  ![Screenshot_2024-06-07-18-57-21-616_com example movieapp](https://github.com/user-attachments/assets/11834a55-d000-47a4-9253-592036d1b82b)
-
+  <img src="https://github.com/user-attachments/assets/11834a55-d000-47a4-9253-592036d1b82b" alt="Screenshot 1" width="300"  />
+  <img src="https://github.com/user-attachments/assets/bd8ee85e-6d43-4a63-a162-2c29ffb1f848" alt="Screenshot 2" width="300"  />
+  </br>
+  <img src="https://github.com/user-attachments/assets/cc72fc65-0082-409f-830a-f5bb4dff2aa4" alt="Screenshot 3" width="300" />
+  <img src="https://github.com/user-attachments/assets/12daa0ed-2d81-43fc-9652-e25aa43b68a8" alt="Screenshot 4" width="300" />
   
-  ![Screenshot_2024-06-07-18-57-37-094_com example movieapp](https://github.com/user-attachments/assets/bd8ee85e-6d43-4a63-a162-2c29ffb1f848)
 
-  
-  ![Screenshot_2024-06-07-18-57-45-407_com example movieapp](https://github.com/user-attachments/assets/cc72fc65-0082-409f-830a-f5bb4dff2aa4)
-
-
-  ![Screenshot_2024-06-07-18-57-54-063_com example movieapp](https://github.com/user-attachments/assets/12daa0ed-2d81-43fc-9652-e25aa43b68a8)
 
